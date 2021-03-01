@@ -1,0 +1,17 @@
+{
+  "name": "node-red-contrib-plugin-header",
+  "version": "0.0.1",
+  "description": "Custom header UI for Node-RED flow editor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazuhitoyokoi/node-red-contrib-plugin-header.git"
+  },
+  "keywords": [ "node-red", "header" ],
+  "node-red": {
+    "plugins": {
+      "header": "header.html"
+    }
+  },
+  "author": "kazuhitoyokoi",
+  "license": "Apache-2.0"
+}
